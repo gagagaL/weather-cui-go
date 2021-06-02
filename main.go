@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "weather-cui-go/cmd"
+import "github.com/gagagaL/weather-cui-go/cmd"
 
 func main() {
 	cmd.Execute()
